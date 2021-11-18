@@ -1,5 +1,6 @@
 enum classType {
-    YES,
-    NO,
-    LUKE_IS_GAY
+    LECTURE,
+    TUTORIAL,
+    ATTELIER,
+    BANANAS
 }
